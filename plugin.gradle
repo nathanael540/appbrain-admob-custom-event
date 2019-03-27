@@ -1,0 +1,9 @@
+repositories {
+    maven {
+        url 'http://swisscodemonkeys.github.io/appbrain-sdk/maven'
+    }
+}
+
+dependencies {
+    compile 'com.appbrain:appbrain-sdk:+@aar'
+}
