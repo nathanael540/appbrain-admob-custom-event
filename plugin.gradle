@@ -5,5 +5,5 @@ repositories {
 }
 
 dependencies {
-    compile 'com.appbrain:appbrain-sdk:+@aar'
+    compile 'com.appbrain:appbrain-sdk:+'
 }
